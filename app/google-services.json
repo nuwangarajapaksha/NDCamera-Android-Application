@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240882594021",
+    "project_id": "ndcameradb",
+    "storage_bucket": "ndcameradb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240882594021:android:ce696453a1b5b75d4f640c",
+        "android_client_info": {
+          "package_name": "com.jiat.ndcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240882594021-16rcm0gsjkgp7k85v4aksr12t937cro8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiat.ndcamera",
+            "certificate_hash": "4420b98ecc331eaa0a5c5b2fc64bd04689b36c30"
+          }
+        },
+        {
+          "client_id": "240882594021-bhuo5prjgm59pr62irgpgp336gi13b7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAycUaB6t-KYJAoH8h2HhhXS0519ExvYRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240882594021-bhuo5prjgm59pr62irgpgp336gi13b7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
