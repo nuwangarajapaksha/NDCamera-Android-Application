@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NDCamera</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="orders">Orders</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="messages">Messages</string>
+    <string name="signin">Sign In</string>
+    <string name="signout">Sign Out</string>
+    <string name="categorise">Categorise</string>
+    <string name="cart">Cart</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin_title">Sign In to NDCamera</string>
+    <string name="forget_password"><u>Forget Password ?</u></string>
+    <string name="signup_title">Sign Up to NDCamera</string>
+    <string name="signin_signup"><u>SIGN UP</u></string>
+    <string name="signup_signin"><u>SIGN IN</u></string>
+    <string name="web_client_id">240882594021-bhuo5prjgm59pr62irgpgp336gi13b7e.apps.googleusercontent.com</string>
+</resources>
